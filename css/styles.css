@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Share+Tech&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Play&display=swap');
+
+img {
+    width: 500px;
+    height: 500px:
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    color: #73683B;
+    font-family: 'Share Tech', sans-serif;
+    
+}
+
+
+
+
+nav {
+    position: absolute;
+    top: 18px;
+    right: 18px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    color: '#13262F';
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background: #73683B;
+    font-family: 'Share Tech', sans-serif;
+}
+
+nav a:hover {
+    color: #B0A084;
+    background: #fff;
+}
+
+
+a:visited {
+    text-decoration: none;
+    color: #B0A084;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+a:focus {
+    text-decoration: none;
+    color: yellow;
+}
+
+a:hover,
+a:active {
+    text-decoration: none;
+    color: black
+}
+
+
+p {
+    color: #B0A084;
+    text-align: center;
+    margin: auto;
+    padding: 100px;
+    font-size: 22px;
+    font-family: 'Play', sans-serif;
+}
+
+
+h2 {
+    text-align: center;
+    margin: auto;
+    color: #73683B;
+    font-family: 'Share Tech', sans-serif;
+
+}
+
+footer {
+    display: block;
+    color: darkorange
+}
+
+body {
+    background-color: #13262F;
+    text-align: center;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    margin: auto;
+    color: #73683B;
+    font-family: 'Share Tech', sans-serif;
+
+}
+
+#logo {
+    font-family: font-family: 'Share Tech', sans-serif;;
+    color: 'black';
+    padding: 10px;
+    text-align: left;
+    font-size: 45px;
+    margin-bottom: 0px;
+    letter-spacing: 5px;
+}
+
+
